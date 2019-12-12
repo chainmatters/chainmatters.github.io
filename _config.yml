@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
+locale: "en-US"
+title: "ChainMatters"
+description: "Blockchain matters."
+url: http://chainmatters.eu/
