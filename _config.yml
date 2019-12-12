@@ -1,5 +1,9 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+minimal_mistakes_skin: "dark"
 locale: "en-US"
 title: "ChainMatters"
 description: "Blockchain matters."
 url: http://chainmatters.eu/
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
